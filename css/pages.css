@@ -1,0 +1,37 @@
+/*首页搜索框----*/
+.searchBox{height:1.3rem;background:#fff;position:relative;}
+.searchBox a.fa_mirror{width:1.3rem;height:1.3rem;
+background:url(../images/search_jing.png) no-repeat center/0.48rem 0.48rem;}
+.searchBox p{font-size:0.4rem;color:dimgray;padding-left:1.1rem;}
+.searchBox img{position:absolute;width:0.46rem;height:0.6rem;left:0.4rem;top:0.35rem;}
+
+/*banner*/
+.main_banner .pic{height:4.6rem;}
+.get_card{height:2.75rem;}
+.mid_adver{padding-top:0.2rem;background:#fff;}
+.mode_list{padding:0.3rem;background:#fff;}
+.mode_list h3{font-weight:normal;font-size:0.42rem;flex-grow:1;}
+.mode_list .top_title{height:1.2rem;}
+.mode_list a.more{font-size:0.36rem;color:#666;}
+.mode_list img.title_img{width:0.64rem;height:0.64rem;margin-right:0.2rem;}
+.mode_list ul{padding-top:0.15rem;}
+.mode_list li{width:3.2rem;}
+.mode_list li h4{font-weight:300;font-size:0.38rem;padding-top:0.15rem;}
+.mode_list li p{font-size:0.28rem;color:#999;padding:0.05rem 0 0.1rem;}
+.mode_list li .pic{height:2.2rem;overflow: hidden;}
+.mode_list .discount img{width:0.4rem;height:0.4rem;margin-right:0.02rem;}
+.mode_list .discount em{font-size:0.32rem;color:#A86A24;min-width:0.9rem;height:0.4rem;border:1px solid #A86A24;border-radius:0.2rem;}
+/*fixed 空间间隙*/
+.bot_gap{height:1.45rem;}
+
+
+/*会员特权*/
+h3.mem_title{font-weight:300;font-size:0.42rem;padding:0.34rem 0.3rem;}
+.mem_ps{background:#fff;}
+.mem_ps ul li{width:33%;padding:0.5rem 0 0.8rem;}
+.mem_ps ul em,.mem_ps ul span{display:block;}
+.mem_ps ul em{height:1.4rem;background:no-repeat center;}
+.mem_ps ul span{color:#000;font-size:0.32rem;}
+.mem_ps ul li:nth-child(1) em{background-image:url(../images/discount_label.png);background-size:0.82rem 0.82rem;}
+.mem_ps ul li:nth-child(2) em{background-image:url(../images/mem_label.png);background-size:0.94rem 0.84rem;}
+.mem_ps ul li:nth-child(3) em{background-image:url(../images/shop.png);background-size:0.83rem 0.75rem;}
